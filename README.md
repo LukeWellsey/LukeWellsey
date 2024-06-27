@@ -1,7 +1,30 @@
 ## Hi there 👋
+# Hi👋, I'm Luke
+
+I'm a student at Brigham Young University-Idaho interested in Salesforce Development, Software Engineering, and taking apart and learning about anything else I can tinker with. I am employed at SafeStreets USA, working as a Salesforce Administrator with a great team. 
+
+## About Me
+* I'm currently learning C#
+* I'm currently working on a personal portfolio website (view the site plan [here](https://lukewellsey.github.io/portfolio/site-plan.html))
+
+## Skills and Technologies
+* Salesforce
+* Apex
+* Java
+* C++
+* Python
+* SQL
+* HTML/CSS
+
+## Projects
+* [Java Weather App](https://github.com/LukeWellsey/Java)
+* [GIS Mapping Exploration](https://github.com/LukeWellsey/GIS)
+
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukewells123/)
+
 
 <!--
-**LukeWellsey/LukeWellsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
