@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi👋, I'm Luke
+## Hi👋, I'm Luke
 
 I'm a student at Brigham Young University-Idaho interested in Salesforce Development, Software Engineering, and taking apart and learning about anything else I can tinker with. I am employed at SafeStreets USA, working as a Salesforce Administrator with a great team. 
 
