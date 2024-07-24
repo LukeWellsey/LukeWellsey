@@ -11,6 +11,7 @@ I'm a student at Brigham Young University-Idaho interested in Salesforce Develop
 * Apex
 * Java
 * C++
+* C#
 * Python
 * SQL
 * HTML/CSS
